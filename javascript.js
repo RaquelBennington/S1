@@ -25,12 +25,10 @@ function changeBg() {
     background.style.backgroundColor = "black"
     h1.innerText = "desligado"
     h1.style.color = "grey"
-    gif.src = "https://media.giphy.com/media/Tbm6Is1GdtB28/giphy.gif"
   } else {
     background.style.backgroundColor = "white"
     h1.innerText = "ligado"
     h1.style.color = "grey"
-    gif.src = "https://media.giphy.com/media/11TyfGbDbBv4be/giphy.gif"
   }
 }
 
